@@ -5,13 +5,6 @@ I build production AI systems — AI agents, business workflows, integrations an
 
 ---
 
-## Current Projects
-| Project | Description | Status |
-|---------|-------------|--------|
-| [azure-monitoring-portfolio](https://github.com/ZenNinja-Dev/azure-monitoring-portfolio) | Reference architecture for multi-client Azure monitoring — Log Analytics design, KQL alert rules, dashboards, workbooks | 🔨 In Progress |
-
----
-
 ## Focus Areas
 - 🤖 **AI Agents & Multi-Agent Systems** – LangGraph orchestration, tool calling, human-in-the-loop
 - ⚙️ **Enterprise AI Automation** – Copilot Studio, AI Builder, Power Automate, n8n, Make.com
