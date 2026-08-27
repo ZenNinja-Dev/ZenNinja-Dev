@@ -1,4 +1,4 @@
-# Hey, I'm ZenNinja-Dev 👋
+# Hey, I'm Jakub 👋
 **AI Automation Engineer** | AI Agents | Enterprise Automation | Cloud & AI
 
 I build production AI systems — AI agents, business workflows, integrations and monitoring platforms that turn manual ops work into reliable, self-running systems. From enterprise M365/Azure automation to fully local, self-hosted agent stacks. Idea to production in days, not months.
